@@ -3,8 +3,8 @@
 :root{
     --first-color: #d90062;
     --first-alpha-color:rgba(217,0,98,0.75);
-    --second-color:#14192d;
-    --second-alpha-color:rgba(20,25,45,0.75);
+    --second-color: #14192d;
+    --second-alpha-color:rgba(4, 22, 92, 0.75);
     --third-color:#501464;
     --third-alpha-color:rgba(80,20,100, 0.75);
     --white-color:#fff;
